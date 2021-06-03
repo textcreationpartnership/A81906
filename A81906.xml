@@ -1,0 +1,767 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A case of conscience resolved: concerning ministers medling with state matters in their sermons: and how far they are obliged by the Covenant to interpose in the affairs of civil government. / By J.D. Minister of the Gospell. March 15, imprimatur, Joseph Caryl.</title>
+            <author>Dury, John, 1596-1680.</author>
+         </titleStmt>
+         <extent>Approx. 54 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81906</idno><idno type="EEBO-CITATION">99864935</idno>
+  <idno type="VID">117168</idno>
+  <idno type="EEBO-PROQUEST">2240903942</idno>
+  
+            <idno type="STC">Wing D2837</idno>
+            <idno type="STC">Thomason E548_29</idno>
+            <idno type="STC">ESTC R205600</idno>
+            <idno type="PROQUEST">99864935</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99864935e"/>
+            <note>(EEBO-TCP ; phase 2, no. A81906)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117168)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 85:E548[29])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A case of conscience resolved: concerning ministers medling with state matters in their sermons: and how far they are obliged by the Covenant to interpose in the affairs of civil government. / By J.D. Minister of the Gospell. March 15, imprimatur, Joseph Caryl.</title>
+                  <author>Dury, John, 1596-1680.</author>
+               </titleStmt>
+               <extent>[2], 30 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R.L. for R.W. at the Star under S. Peters Church in Cornhill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>J.D. = John Dury.</note>
+                  <note>Annotation on Thomason copy: "March. 29".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="uniform_title">Solemn League and Covenant (1643). --  Early works to 1800.</term>
+               <term type="topical_term">Preaching --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117168:1"/>
+            <p>A case of CONSCIENCE RESOLVED: <hi>CONCERNING</hi> Ministers medling with State <gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ers in their SERMONS: <hi>AND</hi> How far they are obliged by the Covenant to interpose in the affairs of Civil Government.</p>
+            <p>By <hi>J. D.</hi> Minister of the Gospell.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license" subtype="imprimatur">
+                        <opener>
+                           <dateline>
+                              <date>March 15,</date>
+                           </dateline>
+                        </opener>
+                        <p>
+                           <hi>Imprimatur,</hi>
+                        </p>
+                        <closer>
+                           <signed>Joseph Caryl.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>R. L.</hi> for <hi>R. W.</hi> at the Star under S. <hi>Peters</hi> Church in <hi>Cornhill,</hi> 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:117168:2"/>
+            <pb n="1" facs="tcp:117168:2"/>
+            <head>A Case of CONSCIENCE resolv'd, <hi>Concerning Ministers medling with State<g ref="char:EOLhyphen"/>matters in their Sermons, and how far they are obliged by the Covenant to interpose in the affairs of Civil Government.</hi>
+            </head>
+            <opener>
+               <salute>SIR:</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">Y</seg>Ou have desired to know of me the reasons why I make it a scruple of con<g ref="char:EOLhyphen"/>science, to <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> others on all sides have done hitherto, <hi>viz.</hi> to intended<g ref="char:EOLhyphen"/>dle with matters of State in my Ser<g ref="char:EOLhyphen"/>mons? I shall briefely let you <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> grounds of my scruple concerning this matter, and lea<g ref="char:EOLhyphen"/>ving them to your conscionable consideration, <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> some impartiall thoughts, which perhaps may case your of the scruples which you have on the other hand, for which you thinke it either unlawfull for you, or <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> pedient for your Flock, to leave intermedling <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> matters.</p>
+            <pb n="2" facs="tcp:117168:3"/>
+            <p> Let <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> what we mean <gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>.</p>
+            <p> As for my self, I conceive, State-matters to be all manner of Councels, Designes, Endeavours &amp; Acting<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap> which are undertaken or <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> by <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> that <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of Authority, <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to the outward Possessions, Rights, Freedomes, Priviledges P<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ogatives, and Persons of men, as they are Members of an outward Common<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>th or worldly Kingdom. Concerning which matters, I thinke it not at all lawfull for me to interpose my judgement in the pulpit, or to intermeddle towards the people, farther then the Apostle hath commanded, <hi>Rom 13. ver. 1. till 8. &amp; 1 Tim. 2. 2. &amp; Tit. 3. 1.</hi> And the reasons why, I con<g ref="char:EOLhyphen"/>ceive, it not lawfull so to doe, are these.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> First, I know no Law either of God or man obliging me to meddle with such matters, by interposing my judgement concerning them in the pupil: and if no Law either expresly commanding, or by a good inference warranting this intermedling can be shewed; I under<g ref="char:EOLhyphen"/>stand not how it can be counted lawfull for any so to do.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly, I finde a Law both of <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> forbidding me to judge of matters which belong <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to me; or which particularly concern other men.</p>
+            <p>The Law of God is this: <hi>Be not busie in other mens affairs,</hi> 1 Pet. 4. 15. <hi>And what have I to doe to judge them that <gap reason="illegible: blotted" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> without?</hi> 1 Cor. 5. 12. <hi>And who art thou that judgest another mans servant? to his own Master <gap reason="illegible: blotted" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> falleth,</hi> Rom. 14. 4. <hi>And judge not that he be not judg<g ref="char:EOLhyphen"/>ed,</hi> Mat. 7. 1. Now when I reflect upon my selfe in re<g ref="char:EOLhyphen"/>ference unto these Laws; my conscience doth tell me that I am not called to manage the affairs of State; but that they belong to other men, &amp; therefore that I ought
+<pb n="3" facs="tcp:117168:3"/> not to be <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>asie in them, and trouble my <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> about them. And if I judg the Magistrates employment (<gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Civill Magistrate) to be without the Church; I have scarce so much, sure I <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> no more right then the Apo<g ref="char:EOLhyphen"/>stle <hi>Paul</hi> had to judge <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> them: now he tels us, that lie had nothing to doe to judge them, but that the judge<g ref="char:EOLhyphen"/>ment of those that are without the Church, God hath reserved unto him<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, <hi>1. Cor.</hi> 5. 13. therefore it doth not appertain to me to meddle with them. But if as a Christian Magistrate, I take him to be with<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the Church, yet his employment, <hi>quatenus</hi> a Magistrate, is not mine, nor is he therein my servant, but Christs; and then the other rule doth take place, <hi>Who art thou that judgest another mans servant?</hi> now the Magistrate is undoubtedly Gods servant, <hi>Rom.</hi> 13. 4. therefore I must let him stand or fall to his own master, in matters of out<g ref="char:EOLhyphen"/>ward government, which God hath intrusted him and not me withall. And in case I do looke upon him as a Brother, and his actions or designes as the affairs of a private <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> then still the former rules doe hold, and Christ <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> forbid me to judge him in publike, or to lay his faults open to any till I have dealt with him in pri<g ref="char:EOLhyphen"/>vat<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and by degrees brought him <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the judicature of those who are his competent judges, <hi>Mat.</hi> 18. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>5. <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> It is not lawfull therefore for me, in my private way to condemne him, whether I looke upon him as a bro<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> or not and far lesse is it lawfull to judge him in publike, and make my selfe an Informer against him towards <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> multitude, who are not his competent judges.</p>
+            <p>Moreover, The Law of God in the fifth Comman<g ref="char:EOLhyphen"/>dement is, <hi>Honour thy father and mother, that thy dayes may be long in the land, which the Lord thy God <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <pb n="4" facs="tcp:117168:4"/> the<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi> All Divines have understood this <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> well of the respect due unto the Civill Magi<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> as to <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> pa<g ref="char:EOLhyphen"/>rents: now to take upon us to judge and censure their actions, or to blast and blame <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> proceedings in <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> like before the multitude, directly or indirectly is <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>nifestly to dishonour them, and if this is <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>lawfull in a son to deale so with his parents, it is also unlawfull in a Subject to deale so with his Magistrates.</p>
+            <p>As for the laws of men in this matter <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> need to mention any, for it is evident in all Nations, that to controule the actions of the Civil Magistrate, and <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tra<g ref="char:EOLhyphen"/>duce him in his proceedings, is a Crime punishable in Subjects by those that have power and are in Authority over them; with death, imprisonment, fines or banish<g ref="char:EOLhyphen"/>ment, according to the nature of the fact, and as the Su<g ref="char:EOLhyphen"/>pream Authority doth judge fit.</p>
+            <p>Thirdly, the Nature of the Gospel whereunto I am appointed a Minister by Christ; is inconsistent with the care of those things where with I must entermeddle, if I should take upon me to judg of them. For <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Gospel is the Testimony of Jesus, to reveal him <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and to invite al men from the cares &amp; lusts <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to enter into his Kingdom and rest; which is a Kingdom of Truth, &amp; not of this World, whereof the Kingdoms <note place="margin">John 18 36, 37.</note> are but lyes &amp; restless vanities: if then I account my self appointed to this employment by Christ; to minde the Mysteries of his Truth; <hi>and that wisdom which is of God, which none of the Princes of this World know, or as</hi>
+               <note place="margin">1 Cor. 2 7, 8.</note>
+               <hi>Princes of this World care for:</hi> I ought not to apply my self to intermeddle in their affairs; and if I ought not to do this, I conceive, it is not lawful for me to jud<gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> affairs in publick, either to commend or condem<gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="5" facs="tcp:117168:4"/> in the Pulpie. For Christ being <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eated to <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> his <note place="margin">Luke 12. 13, 14</note> Authority, <hi>to cause <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Brother to divide the inheritance with the other;</hi> did refuse to do it, upon this ground be<g ref="char:EOLhyphen"/>cause God had not app<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ted him a Judge, or a divider over men in <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> matters: the Disciple is not above the Master, and if the Master had no right to meddle in small matters between man &amp; man; what right have I to meddle in the greatest between State and State, or Ru<g ref="char:EOLhyphen"/>lers and Subjects when Christ called one of his Disci<g ref="char:EOLhyphen"/>ples to follow him, and he desired leave, <hi>first, to go and</hi>
+               <note place="margin">Matth. 8. 21, 22. Luke 9 60.</note>
+               <hi>bury his Father;</hi> Christ bid him, <hi>let the dead <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> their dead; but go thou</hi> (saith he) <hi>and Preach the Kingdome of God.</hi> If then those that are called to preach the Kingdom of God ought to free their mindes from the cares, which through natural affection, and a kind of Civil Duty so neerly concerne themselves and their kindred; how much more, ought they to be dis-interessed in matters of State, which at all do not concerne them:</p>
+            <p>The <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of a quite contrary nature cannot be at <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> rightly <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tained in the same minde, they are like two opposite <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> whom one can serve at the same time acc<gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> at different times faithfully; therefore he that will be Christs servant and a faithfull <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> his warfare; must not be intangled in the affairs of this life; otherwise he will not be able to please him, <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> hath chosen him to be a souldier, 2 <hi>Tim.</hi> 2. 4. <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of State concerne only this life and nothi<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> else directly and principally.</p>
+            <p>Fourthly, The intermedling with State-matters in Sermons is contrary to the Rule of preaching; and to the <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> which ought to be maintain<gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of that Duty.</p>
+            <pb n="6" facs="tcp:117168:5"/>
+            <p>The Rule of preaching is, <hi>if any man I speak <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> him speake as the Oracles of God. 1. Pet. <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</hi> We are war<g ref="char:EOLhyphen"/>ranted to speake nothing, (if we speake in Gods name,) but that which is undeniably his Word nothing can beget faith and build up the soule unto <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>in esse, <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the truth of God; if we speake other matters which the wisedome of earthly men or our own imaginations or passions dictate, we profane the Ordinance of God, and destroy the faith of the hearers. What is the chaffe to the wheat? saith, the Lord, by the Prophet <hi>Jeremia<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi>
+               <note place="margin">Jer. 23. 28.</note> Our own words and dreames about temporall condem<g ref="char:EOLhyphen"/>ments are lesse worth then chaffe, and the faith of pro<g ref="char:EOLhyphen"/>fessors cannot stand in the wisedome of men, but in the power of God. And because Jesus Christ is the wise<g ref="char:EOLhyphen"/>dome <note place="margin">1 Cor. 2. 5.</note> of God and the power of God, therefore in our preaching, we should <hi>determine to know nothing amongst our hearers, but Jesus Christ and him Crucified.</hi>
+            </p>
+            <p>The aime to be maintained in preaching is to perswade God only and not men; and not to please men or be<g ref="char:EOLhyphen"/>come their servants, but Gods alone, <hi>Gal. 1. 10. <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi>
+               <note place="margin">1 Cor. a. 2.</note>
+               <hi>intendeth to please men is no more the serv<gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </hi> Now when men set themselves to speake <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ters in the Pulpit, their aime is either to please th<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> a<g ref="char:EOLhyphen"/>gistrates by commending them to the people; or to shew their dislike against their proceedings by reproving the same which doth tend to make the people <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>pleased with their Magistrates: now whether the designe be the one, or the other, it is altogether unworthy of the Minister of the Gospell; and a man cannot possibly mention the affaires of State in publike, but it must be either way, and therefore he ought either way <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>.</p>
+            <p>And whatsoever a mans aime may be in med<gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="7" facs="tcp:117168:5"/> with State-matters, as he doth no service to God in it so he perverts the <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of the hearers, from the integre<g ref="char:EOLhyphen"/>ty and simplicity of the Gospell to reflect upon and af<g ref="char:EOLhyphen"/>fect (with <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to worldly wisdome, the waies of a party: so <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> State matters are continually carryed by some plots in the hands of one party or other; and whosoever doth meddle with them, either to commend or discommend the proceedings, must be the servant of a party, and so forsakes the spirituall liberty and <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>r<g ref="char:EOLhyphen"/>tiality wherein he ought to stand, and whe<gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> he ought to bring the mindes of his be <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that they may be willing to serve all men in love, for their spirituall <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>dification, without prejudice for Christs sake. The in<g ref="char:EOLhyphen"/>terest of States-men and matters, change according to circumstances by which those that manage publike af<g ref="char:EOLhyphen"/>fairs finde their advantages; if the Minister of the Go<g ref="char:EOLhyphen"/>spell will oblige himselfe to meddle with these matters, he will be constrained either to say and un-say the same things, if he follow State principles (which is to <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>dit the truth of the Gospell, for when men are sway'd with <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> considerations, they must needs make the <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> preaching, yea, yea, and nay, nay, (as <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and many doe of <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> if he will <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in<g ref="char:EOLhyphen"/>flexible and not change his <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> with the times, he will be engaged into occasions of <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and contro<gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> with other for worldly matters as oft as they <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> which how inconvenient it is for a Minister of the Go<g ref="char:EOLhyphen"/>spell to doe, and how prejudiciall it it unto his profess<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>on, I leave you to judge.</p>
+            <p>The scandals which are given against the Gospell to those that are discerning, and perceive <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> in <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> for Interest <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> very hainous and <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to
+<gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="6" facs="tcp:117168:6"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="7" facs="tcp:117168:6"/>
+               <pb n="8" facs="tcp:117168:7"/> the truth, and to the ministery thereof to discredit it for by this means naturall men become Atheists, for there<g ref="char:EOLhyphen"/>upon they count all Religion nothing else but a cloke of hypocrisie: these practises stagger the weak also who are led with blind zeal to be engaged in<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> factions a<g ref="char:EOLhyphen"/>gainst their brethren, and to maintain divisions, which overthrow the Churches peace and unity, and thereby subtill Statesmen take advantages to lay snares before unwary Ministers who have more zeale then prudence, to entrap them and make use of them for their own ends, and then when they have made them their hackneys, and serv'd their <gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>rns out of them, they turn them a<g ref="char:EOLhyphen"/>way with neglect and contempt at the journeys end, be<g ref="char:EOLhyphen"/>cause they deserve no better.</p>
+            <p>Now I knowing these things to be the naturall con<g ref="char:EOLhyphen"/>sequents of Ministers intermedling with State-matters cannot thinke it lawfull for me to come within the reach of these snares, and therefore must avoid the occa<g ref="char:EOLhyphen"/>sions thereof, and am willing to warne you of the same, whereof we see many examples before our eyes.</p>
+            <p>These are the chiefe heads of Reasons <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> made me abstain from that way of preaching <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> have followed, and as I conceive, these ground <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ch justifie my way to be un-answerable, so I never could finde any solidity in those pretences which are alledged for the contrary practise.</p>
+            <p>For that which is pretended from <hi>Ezech. 3. 1<gap reason="illegible: blotted" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> &amp; 33. ver.</hi> 7. That Ministers are made Watchmen, to give warning to the wicked, to warne them from their wicked way; and to the righteous also, that they turn not from their righteousnesse, is not otherwise to be un<g ref="char:EOLhyphen"/>derstood but in cleer cases, wherein Gods Comm<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ment is manifestly transgressed, and to be directed im<g ref="char:EOLhyphen"/>mediately
+<pb n="9" facs="tcp:117168:7"/> towards the persons themselves, who are transgressors, to make them sensible of the guilt &amp; dan<g ref="char:EOLhyphen"/>ger under which they stand. But in doubtful cases, wher<g ref="char:EOLhyphen"/>in there is no cleere word from Gods mouth, wherein the Magistr<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> actions may be mis-interpreted; where<g ref="char:EOLhyphen"/>in hee pretends to walke by a just Rule; wherein his secret aime and intention, by a jealousie of State, is rather condemn'd then his fact, and wherein he is not expresly dealt withall himselfe to convict his conscience concerning the iniquity of his proceedings to <gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>stifie it, but is cryed out upon before others, and censured be<g ref="char:EOLhyphen"/>fore the multitude, who are not his competent judges, (which is the practise of those that in the pulpits have medled &amp; do meddle with State matters) I say in such cases, and in such a way of proceeding, no colour can be taken from the watch-office of <hi>Ezechiel</hi> to warrant it: for look upon the charge which he doth receive, &amp; the way how he is to discharge it, and you will see that your pra<g ref="char:EOLhyphen"/>ctise is nothing like it. The charge is, That the <hi>Watch<g ref="char:EOLhyphen"/>man should heare the word at Gods mouth, and give the house of Israel warning from God, ver.</hi> 17. This im<g ref="char:EOLhyphen"/>p<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> an expresse Commandement, and a cleer trans<g ref="char:EOLhyphen"/>gression of the Commandement in those that are to be warned, and a peculiar mission from God to give the warning: The way how this warning is to be given to the wicked and to the righteous, is by a particular address, which the Watchman was to make as from God unto themselves immediately. If the Ministers that meddle with State-matters will observe these rules, far be it from me to condemn them; but if their arguing a<g ref="char:EOLhyphen"/>gainst the proceedings of those that are in places of Au<g ref="char:EOLhyphen"/>thority; hath nothing in it approaching unto this way,
+<pb n="10" facs="tcp:117168:8"/> then I must be dispenced from following <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> it my duty to discover the irregul<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rity of it; by testifying against it. If men will make themselves through State jealousies and evill surmises <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> that ma<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>nage publike affairs, watch<gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> they are divided among themselves for <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> interests, for the advantage of one party to blast and discredit ano<g ref="char:EOLhyphen"/>ther, and then pretend that they discharge the Watch Office which is committed unto them, I shall leave them to answer it to the chiefe shepherd of the flock; for it becometh not me to judge another mans servants, far<g ref="char:EOLhyphen"/>ther then by putting them in minde of the commands of their Master, which are undeniably his known will.</p>
+            <p>But from the contemplation of the Watch-mans Of<g ref="char:EOLhyphen"/>fice over the souls of the stock, and their obligation to give an account thereof unto God: there is an objecti<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and doubt which may be raised, thus. But what if I <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> my flock like to be <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed away (by the example of those <note place="margin">Heb 13. 17.</note> that are in authority, or the instigation of those that <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> power) unto wicked and unjust courses, which are <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> structive to the true Religion and the safe <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> shall I not warne them or the danger in <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>swer, yes, you are bound to fore warn them of the <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> which you thinke they are like to fall into, it the thing be evident and cleerly a transgression of Gods will, I say you are bound to fore-warn as wel those that by their au<g ref="char:EOLhyphen"/>thority and power led others out of the way, as those that are led by them; thus <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of Idolatry and <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>pression, the Prophets did addresse themselves directly to the Rulers of the people; they shewed them <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> doubted Commandement of <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and their <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ble practice opposite unto it, and <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="11" facs="tcp:117168:8"/> dently doth pervarx the truth of Religion and <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ger the safety of the State, the fact it selfe, and the un<g ref="char:EOLhyphen"/>righteousnesse thereof is to be laid open before all, from the Word of God, and all are to be warned of the dan<g ref="char:EOLhyphen"/>gerous con<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ences thereof, which may be done <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <hi>Thes<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>;</hi> leaving the <hi>Hypo<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>esis</hi> and particular application to every mans judgement, to discharge his conscience towards God therein, but now we have seen men that <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> use those whom they would discredi<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> before the multitude, not to meddle with them matter in <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> with the Hypothesis of their own <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> con<g ref="char:EOLhyphen"/>jecturall appearances, charging faults suspiciously; and by way of insinuation, whereupon a strict examination none were to be found. He that insists upon the <hi>Hypo<g ref="char:EOLhyphen"/>thesis</hi> of a matter, to charge some body with the guilt thereof, doth evidently <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> his aim is not so much to rectifie the fault as to make him odious, whom he chargeth with it; but <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> a matter doth not to inst<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and warn all men <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> duty, that they may looke to their wayes. The <gap reason="illegible" resp="#keyers" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> did flatter, Court the King, and the Bishops in the <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> heretofore, with reproaches and aspersi<g ref="char:EOLhyphen"/>ons which they did cast upon the <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> odious, rather that they might be perfeciued then refor<g ref="char:EOLhyphen"/>med, and since these Troubles it cannot be denyed <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the popular Proachers have paid them home in <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> way, by courting the humours of the <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> against the King and his <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> also might be also persecuted then reformed: All which on both sides hath wrought nothing else <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> have brought <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> upon <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the wayes of <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> re<g ref="char:EOLhyphen"/>formation.
+<pb n="12" facs="tcp:117168:9"/> But if the Watchmen on both sides had handled matters in <hi>Thesi,</hi> and dea<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> with those who were to be warned, to draw them from the errour of their way, by the means of Gods Counsell rather then for humane Designes, we might have <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> preserved from the dangers into which they Have helped to bring us.</p>
+            <p>There is another pretence taken to colour this pra<g ref="char:EOLhyphen"/>ctise from the commandements which the Apostle doth give to <hi>Timothy</hi> and <hi>Titus, Them that sin rebuke before all,</hi> 1. Tim. 5. 20. <hi>be instant in season, out of season, reproove, rebuke, exhort, &amp;c.</hi> 2 Tim. 4. 2. and <hi>rebuke them sharply, &amp;c.</hi> Titus 1. 13. and such like.</p>
+            <p>But, I conceive, that all these directions are given to Pastors, only in reference to those that are immediatly under their Pastorall Charg in cleer Cases, wherein they are to deal with the parties themselves immediatly: it is therefore a great mistake to apply them unto other per<g ref="char:EOLhyphen"/>sons who are not under their Pastorall charge, and in ca<g ref="char:EOLhyphen"/>ses which are mysteries of State, and not obvious to the cognizance of every one, and which are handled, nor be<g ref="char:EOLhyphen"/>fore the parties themselves, but before others <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> not capable to judge thereof, as the common multitude is. If we looke to that which Christ did in this way of reproof towards the Scribes and Pharisees, <hi>Mat.</hi> 23. we shall see how these reproofs ought to be manag<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> First, it may be observed that Christ came not to this sharp<g ref="char:EOLhyphen"/>nesse with them till towards the latter end of his Mini<g ref="char:EOLhyphen"/>stery, after that he had in all probability dealt ofttimes with them in a milder way, to make them sensible of their duty: For it is said of him, that he did not <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the bruised reed, nor quench the smoaking flax, <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="13" facs="tcp:117168:9"/> did not strive, nor caused his voyce to be heard in the streets, <hi>Mat.</hi> 12. 19, 20. whence we must conclude, that he never at first dealt with any man sharply, but gently alwayes, but when he found these Scribes and Pharisees incorrigible, then lost the people might be seduced by their practises, he doth give them a necessary warning to preserve them from being perverted by the example of their leaders, and reproves the open faults of their leaders, in cleer cases convincingly before them. Se<g ref="char:EOLhyphen"/>condly, he doth it in such a way which is without all exception. For he doth not intend to discredit them in their places, or blast their authority towards the people, but establisheth it, commanding the people to hatken to them as they sit in <hi>Moses</hi> seat, <hi>ver.</hi> 2, 3. then he re<g ref="char:EOLhyphen"/>proves them not behind their back to the people, but to their faces in the presence of the people. And lastly, he insists upon perticular matters of fact, which were undeniable, wherein he not only discovers, their Hypo<g ref="char:EOLhyphen"/>crisie, to convince them of it, but shews them the Duty which ought to be done; and warns them of the judg<g ref="char:EOLhyphen"/>ment which is to come upon them if they neglect it. Now if the Ministers that meddle with State-affairs in the pulpit would observe this way and method, their practise would be free from all exceptions: for <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> they can deal with those that manage publike Affairs, to re<g ref="char:EOLhyphen"/>ctifie that which they finde opposite to Christianity, and amiss in them, first, by way of counsel in private; and if afterward finding that private admonitions profit not, but that they persevere in a course of State-hypo<g ref="char:EOLhyphen"/>crisie, to endanger the salvation of others, whom they may seduce by their example from the sincerity of the holy profession: if (I say) in such a case without preju<g ref="char:EOLhyphen"/>dice
+<pb n="14" facs="tcp:117168:10"/> to their just authority, they can deale roundly and openly with them, to convince of the perversness of their way, and to reclaim them from the errours thereof, this would not only be warrantable, <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> commendable: but how far this is intended by any, I <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to you to judg; and to the conscience of those <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ndle State<g ref="char:EOLhyphen"/>matters in their Sermons to determine between God and themselves.</p>
+            <p>As for that which some say, that men must not be luke-warm Neutralists, but zealous in the Cause of God and for the publike good. I answer it is so, but we must also take heed, that we mistake not the Cause of God, and that we make not our own partial aimes and private Interests, that which we call God's Cause: <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> God's Cause be stated as it relates to the Gospel of Christ, let it be handled in <hi>Thesi &amp; <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>thesi,</hi> as it reflects upon the conscience of all men by <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> manifestation of the <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and let no personall <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>proaches, insimuations, reflexions, and particular worldly matters, to asperse any body, be mixed with it; and let it be held forth with all spirituall fervency from the Word; and so let it be recommended to Gods blessing upon the hearts of the <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> let us not call our own co<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vements Gods <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> mane passions raised upon jealousies or disconcernts, <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Do we not see evidently that no party doth count any thing a publike good, but that which is for its own way? and that all its deal and strength is spent, nor so much to build up, to settle or advance any righteous constitutions in common? as to set up it self over the adverse party, and to cast down every thing which is not for its own interest this is evidently all the <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of these <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> strive for power over others, and then <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="15" facs="tcp:117168:10"/> meer will according to power, against all that are found or suspected to be opposites. And if not to be active in this way of partiality, or puft up for the Interest of one against another, to have the rule, be counted to be a luke-warme Neutralist, I shall confesse my selfe to be one of these, and yet I hope I shall never be found a Neutralist before God in his Cause, nor luke-warm towards the way of truth and peace, which is without Partiality and without Hypocrisie.</p>
+            <p>But above all this, there is yet one Scruple more which doth stick with you, which is, the tenour of the Nationall Covenant, whereby you conceive you are solemnly obliged before God to advance the publike wayes of Reformation mentioned therein, as well to<g ref="char:EOLhyphen"/>wards the Church as towards the State: Now you say (and say well) that in case the tenour of it be made void to bring a guilt upon the Nation, that you are bound in conscience to free your selfe from that guilt, and as a Minister of God to warne others of that danger, and consequently to meddle with State-matters so far as this comes to.</p>
+            <p>To this I say, that if you doe this as a Minister of the Gospel ought to do, and not as a Minister of State-Af<g ref="char:EOLhyphen"/>fairs, you doe that which is your duty. It is far from me to desire you or any man to be slack in observing your Vows, and performing your Oath unto God; I shall rather, as bound in the same promise, strengthen your heart and hands in it: and to that effect I shall tell you how I finde my selfe engaged in the Covenant. I tooke the Covenant as obliging my selfe unto God to perform the tenour thereof, and not unto men. I took it to prosecute the lawfull wayes of advancing Religion
+<pb n="16" facs="tcp:117168:11"/> and Righteousnesse, and Reformation and Peace, in Church and Commonwealth, and not to become <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>viceable to any one party against another. And lastly, I took it to advance these aimes in this place, with a spe<g ref="char:EOLhyphen"/>ciall reference and subordination to the <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> rules, and fundamental aimes of my profession in Christianity, and not otherwayes, and least these who desired me to joyn with them in prosecuting the tenour of the Covenant, might seem to impose their sense upon me in taking it, or might in time to come pretend to have me obliged, as it were by implicite faith, to follow then courses in ob<g ref="char:EOLhyphen"/>serving it: I sent unto them before I tooke it, my sense of the Articles thereof in writing, containing a Declara<g ref="char:EOLhyphen"/>tion of the way which I thought my selfe bound to fol<g ref="char:EOLhyphen"/>low in keeping the same: which you shall see when ever you please, and according to this engagement, although all men should neglect and di<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>null the Covenant; yet by me it never shall be forsaken by Gods grace, but main<g ref="char:EOLhyphen"/>tained and followed so long as I shall have abilities so to doe.</p>
+            <p>If then I should answer your scruple concerning your engagement, upon this account of medling with State<g ref="char:EOLhyphen"/>matters in case the Covenant should be made voi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; I must refer you to the words of the Covenant it selfe, to let you see how far it doth oblige you to follow this way. The first, third, fifth, and sixth Articles doe limit your endeavours to your <hi>power, place, casting, vocation, and interest,</hi> if I conceive then my proper place, calling, vo<g ref="char:EOLhyphen"/>cation and interest to be in the pulpit, none other but to speake the Oracles of God, and to meddle with nothing else directly but with the knowledge of Jesus Christ &amp; him crucified, as in the Covenant of Grace he is offered
+<pb n="17" facs="tcp:117168:11"/> unto us, by Repentance and Faith in his Name: and to mention nothing indirectly, but what is evidently op<g ref="char:EOLhyphen"/>posite unto the tenour of some profitable truth belong<g ref="char:EOLhyphen"/>ing unto that matter: if (I say) this is so, then I may soon determine the bounds of my intermedling, how far they should reach, and where to stop, for I am bound up by mine own promise, not to meddle further then a servant of Christ in the Gospel ought to doe: so that I should make my selfe a transgressor of the Covenant if I should interpose my judgement in the pulpit further then either makes to lead my heaters unto Christ, and to the obser<g ref="char:EOLhyphen"/>vation of the Covenant of grace, which the Father doth make with us in him, or otherwise then is sutable to the Rules of edification towards all, without offence and partiality towards any. If then I should step beyond this line, and take upon me, through some insight in State Designes, to play the <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> toward the people, to sway their inclinations to some <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> for certain ends which Christ hath not bid me pro<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>cute in his hus<g ref="char:EOLhyphen"/>bandry; I know not how I should be able to answer it unto mine own conscience in his presence: for my spi<g ref="char:EOLhyphen"/>rit would tel me that to play the buckster with the truth, to corrupt the Word of God, and not to handle it in sincerity, and as of God, is not the part of a faithfull fer<g ref="char:EOLhyphen"/>vant of Christ: therefore as I would not have any to judge of me. I shall never takeupon me to judge of any mans secret intentions, in handling the Word, and mix<g ref="char:EOLhyphen"/>ing heterogeneall matters of publike concernment with his Sermon: Every one shall answer to his own Master that which he hath done, be it good or evil, and the day which burneth as fire and is <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> at hand, shall try his work whether it <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of combustible matter or not; I have
+<pb n="18" facs="tcp:117168:12"/> enough to doe to looke to mine own feet, to while in an even path: and I desire that all my brethren who are en<g ref="char:EOLhyphen"/>gaged in the Covenant, may be carefull to examine their own hearts and wayes according to the rules heretofore mentioned; and if they consider conscionably the pro<g ref="char:EOLhyphen"/>perty of their calling and place, &amp; finde that to discharge their duty in it, they must tell States-men their duty in private or in publike, as well as others, and that with some reference to publike matters of State; let them do it in Gods name freely, but let the manner of doing it be such as becometh the Gospel of Christ, and the Stew<g ref="char:EOLhyphen"/>ards of the Mysteries of God; that is, let all be done in love, let nothing be offered without a cleere discovery of Gods will from the Word; and when worldly cir<g ref="char:EOLhyphen"/>cumstances and matters of fact are mentioned, let no passion, no envie, no vain-glory appear, nor any thing be done with a murmuring and disputing affection, but let the spirit of meeknesse and compassion govern the whole carriage of the businesse, towards the restoring of those that are overtaken in a fault rather then to shame them, or give others any occasion to insult over them. With these cautions, if the Covenant doth bring any speciall engagement upon any mans conscience; to take notice of State-matters further then otherwise is incident to the Ministeriall function in an ordinary way: I suppose he may walke safely towards God and without offence towards men in matters of greatest scrupulosity.</p>
+            <p>But for a further cleering of Scruples which may be incident in this kinde, I shall put a Case, which in evill times before the witnesses be killed; faithfull Ministers in their Warfare against the Beast, may and will be put unto. Let us then suppose, that it shall be made a crime
+<pb n="19" facs="tcp:117168:12"/> worthy of death, to speake against any humane constitu<g ref="char:EOLhyphen"/>tions, which Authority shall set up in Gods worship, although never so contrary to the expresse Word of God, as in the Bishops times some were made offenders for a word, and a pretence taken from any small thing which seemed to contradict Authority, was enough to out a man from his place whom they called a popular Preacher; not so much because the thing deserv'd outing; but because any occasion would serve to silence a power<g ref="char:EOLhyphen"/>ful and faithful Minister. In such a case the question is, how far a conscionable Minister is bound to appear in opposition to the Sanctions of Authority?</p>
+            <p>To this I shall answer, First, That in such a case where Gods Word is cleerly opposite to the sanction of man in matters of his own worship, no man may with a good conscience be indifferent, connive, or seem to give way unto the establishment thereof willingly, for this would be a luke-warmnesse in Gods service?</p>
+            <p>Secondly; no man can give an exact rule to another, what in such occasions, as may fall out in reference to his Flock, or against his adversaries he should doe, to quit himselfe, and not betray the Truth, or the souls of his Flock unto the power of seduction, because circum<g ref="char:EOLhyphen"/>stances are infinite, therefore men are to study generall Rules; and must in particulars be left unto the directions of Gods Spirit; who doth oft times call forth his ser<g ref="char:EOLhyphen"/>vants to the battell upon smaller occasions, to fight as effectually as upon greater ones, and in some men, the humane imprudencies of their spirituall zeal, may be as usefull in Gods way of ordering the same, as the great<g ref="char:EOLhyphen"/>est prudencie of others.</p>
+            <p>Thirdly, although a faithful Minister may neither con<g ref="char:EOLhyphen"/>nive
+<pb n="20" facs="tcp:117168:13"/> nor shew any complyance with that which <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> knows to be cleerly opposite to the wil of God but must be zealously affected and bent to stand out against it <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the sphere of his calling; yet he is not obliged either <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> all times to set himself openly against it; or to appear in such a way of contradiction unto it, which may give the adversaries of the Gospel some advantages, which they lie in wait to take against him, from the manner of his opposition or contradiction: therefore it is lawfull at all times, and in such cases very expedient to use Pru<g ref="char:EOLhyphen"/>dency, and by some spirituall Stratagems to defeat the enemies of their advantages: which may be done some<g ref="char:EOLhyphen"/>time by declining a direct and open co<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of that which is the act of Authority, and by <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ano<g ref="char:EOLhyphen"/>ther way of opposing the same, which may he as effectu<g ref="char:EOLhyphen"/>all and yet not lyable to <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> exception. For there are two ways of handling all matters of Doctrine and Pra<g ref="char:EOLhyphen"/>ctise, the one is Positive the other Negative: the Ne<g ref="char:EOLhyphen"/>gative is to refu<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and contradict that which another doth assert or practise, condemning it as an errour, or a fault. The Positive is to confirme and declare our own opinion as a Truth, and if this be done effectually in a matter wherein our assertion doth by a clear conse<g ref="char:EOLhyphen"/>quence make void the errour, or overthrow the practice of our adversary, it is no less profitable to beare wit<g ref="char:EOLhyphen"/>ness to the Truth, then a direct reproving of <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> by an express condemnation thereof: by this Method then, a faithful Minister may prudently decline a <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> laid to entrap him if he should prefume to be so stout, as to con<g ref="char:EOLhyphen"/>tradict that which is expresly established, and yet may zealously and effectually discharge his Conscience, and preserve his flock from errour by a Positive deliver<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of
+<pb n="21" facs="tcp:117168:13"/>
+               <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ruth, which being entertain'd from Gods Word, <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> be <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to no exception: and yet destroy the errour and discover the fault of those that abuse then Autho<g ref="char:EOLhyphen"/>rity in all mens minds, although the consequence be not <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>presly made, or the thing to be condemn'd once na<g ref="char:EOLhyphen"/>med.</p>
+            <p>Thus then in matters of State, which Authority may perhaps set a foot directly, in opposition to the Kingdom of Christ, to make men guilty that shal openly contradict it, zealous men may decline an open Contradiction, and by asserting strongly that matter of Religion or Wor<g ref="char:EOLhyphen"/>ship, which is opposite in its nature to that matter of State which authority would settle, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uit their consci<g ref="char:EOLhyphen"/>ence <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and without <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> which may not be professedly <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> yet <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> it in all mens minds, he that <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of GOD, that the Lo<gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to GOD in <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> duties, <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> minde him alone without any other thoughts, and that all professors are bound in conscience to intend this, as they desire to partake of his holinesse, and that the neg<g ref="char:EOLhyphen"/>lect of this duty is a forfeiture of that holinesse which God in his Covenant by the ordinance of that day doth offer to us, he (I say) that did strongly make out this to be a truth which cannot be controuled, did fully con<g ref="char:EOLhyphen"/>demn and refute the Book of Sports on the Lords day, which was set up by Authority, although he never did once name it; and so in all other Cases, somthing may be done of like nature, when adversaries lie in wait to finde occasions of making men offenders if they dare seem to be directly opposites to that which beares the name of Authority. Also the <hi>Thesis</hi> of a matter may be so fully
+<pb n="22" facs="tcp:117168:14"/> handled, that the <hi>Hypothesis</hi> need not to be once named, but all men will be able to make the application thereof by themselves. The defensive postures in Fencing are easier and safer then the offensive, and he that is so well skil'd therein, that his adversaries by assaulting him, <gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>s nothing else but wearinesse to himselfe, and the spend<g ref="char:EOLhyphen"/>ing of his strength in vain, will in the end have an easie conquest of him. And to cure diseases there are two wayes, either by the strengthening of the vitall spirits in the naturall constitution of every one, or by the purging out of evill humours: if nature can be so well fortified by Cordials or Fomentations, as to vast our that which is noxious by it self, it is far better and safer then to use Purgations which alwayes bring some tro<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>, and weaken the spirits for <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>. Thus it is also with the best of reproofs and censures upon the mindes of natu<g ref="char:EOLhyphen"/>rall men. <hi>Verbum <gap reason="illegible: blotted" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> est.</hi> The Lord direct us w<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ly to walke in the light, and by the power of it to dispel the power of darknesse, that we may shine with<g ref="char:EOLhyphen"/>out blame in the midst of a crooked and perverse genera<g ref="char:EOLhyphen"/>tion: Let us pray for the spirit of promise, which wil di<g ref="char:EOLhyphen"/>rect us in all Truth, and the God of Truth and Peace be with you: In him I shall rest,</p>
+            <closer>
+               <signed>Your assured friend in Christ,<lb/> J. D.</signed>
+            </closer>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="23" facs="tcp:117168:14"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="22" facs="tcp:117168:15"/>
+         </div>
+         <div type="letter">
+            <pb n="23" facs="tcp:117168:15"/>
+            <head>The Vow which <hi>J. D.</hi> hath made, and <hi>the Covenant which he doth enter into with God, in reference to the</hi> Nationall Covenant of the Kingdoms. <hi>Sent to</hi> London <hi>from the</hi> Hague, <hi>the 11/21 of</hi> Decemb. 1643.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He tye of my conscience to the profession of the Gospel, whereby I am made a Subject of Jesus Christ the King of Kings, partaker of the priviledges of the Kingdom of heaven, and a free Citizen of the spirituall <hi>Jerusalem,</hi> doth binde me to bear witness unto the Truth, to joyn my sell unto the professours thereof, and to subscribe my name unto the Lord, to serve under his Banner, for the preservation and enlargement of his Church till he receive all the Heathen for his inheritance, and the uttermost parts of the earth for his possession. Therefore, according to the nature of the Ministeriall function wherein God hath set me, and the Vows which I have formerly made to express my faithfulnesse towards him, and my blamelesse dealing free from partiality towards all men, and chiefely to<g ref="char:EOLhyphen"/>wards those of the houshold of faith: I conceive my self obliged to answer the call which is given me, whereby I am required to contribute help towards the publike edi<g ref="char:EOLhyphen"/>fication of the Church whereof I am a Member.</p>
+            <p>I declare then in the presence of Almighty God, who shall judge the quick and the dead at the day of his glo<g ref="char:EOLhyphen"/>rious appearing, that I have no ends in this undertaking but these.</p>
+            <p>First, to satisfie my conscience in the duties which I
+<pb n="24" facs="tcp:117168:16"/> owe to Christ in his Kingdom amongst all, and <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Evangelicall Christians, and more particularly amongst those of my Nationall Church.</p>
+            <p>Secondly, to shew my fidelity unto my Lawfull So<g ref="char:EOLhyphen"/>vereign, to the Kingdomes, and to the peace of both in the profession of the Gospel. And</p>
+            <p>Thirdly, to endeavour the edification of all my Evan<g ref="char:EOLhyphen"/>gelicall Brethren at home and abroad, who are distressed for want of mutuall love and peaceable affections, and di<g ref="char:EOLhyphen"/>stracted by reason of uncharitable jealousies, passionate injuries, and injurious mistakes. Therefore my aime in this enterprize, is and shall be without all mixture of hu<g ref="char:EOLhyphen"/>mane respects, to procure so far as God shal enable me in the way of my spirituall calling, a remedy to these evils, and to this effect having renewed my Covenant, with Almighty God, and the Vows by which I am solemnly obliged to the Rules of my profession; I have answerably to the same lifted up my hand to heaven, and sworn to the most high God, as followeth.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+               <hi>That in the Ministery of the New Covenant of everlasting Life &amp; Peace, which God hath graciously erected with man<g ref="char:EOLhyphen"/>kind in Jesus Christ, and according to the analogie of Chri<g ref="char:EOLhyphen"/>stian Faith cleerly taught, and the rules of Christian duties expresly commanded in holy Scripture; and by the undoubted principles of sincere dealing, manifestly revealed in the con<g ref="char:EOLhyphen"/>science of every one, and usefull for edification, and avoiding of offence in the communion of Saints: I shall sincerely, re<g ref="char:EOLhyphen"/>ally and constantly, through the grace of God, endeavour to preserve every where, but more especially in the Church of</hi> Scotland, <hi>and to advance towards perfection in the Church of</hi> England, <hi>and</hi> Ireland, <hi>the Reformed Religion, in the free and publike profession and practise of the Doctrine, Worship, Discipline and Government thereof, according to the Word
+<pb n="25" facs="tcp:117168:16"/> of God, and the example of the best reformed Churches, and shall by the means aforesaid, furthermore endeavour as I shall finde opportunity, to bring the Churches of God in the three Kingdoms to the neerest Conjunction and Uniformity that may be Evangelically obtained in Religion, confession of Faith, forme of Church Government, Directory for Wor<g ref="char:EOLhyphen"/>ship and Catechizings, that they and their posterity may as brethren live in unity of the spirit through the bond of peace, in faith and love amongst themselves, and correspond ami<g ref="char:EOLhyphen"/>ably with forreign Protestants, that the God of Peace, Love and Unity, may delight to dwell in the midst of them.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+               <hi>That by the means aforesaid, I shall in like manner with<g ref="char:EOLhyphen"/>out worldly respects and respecting of persons, endeavour the rooting out of all plants which the heavenly Father hath not planted, and more particularly that I shall labour to ex<g ref="char:EOLhyphen"/>tirpate all humane usurped power over the Church of God &amp; the consciences of men, tending to lead them in a Lordly ty<g ref="char:EOLhyphen"/>rannicall way to depend upon the will of man, by a blinde credality and forced obedience in ma<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rs of Faith and Reli<g ref="char:EOLhyphen"/>gious practise, whether it be called now Popery or Prelacie, by the Titles of Arch-Bishops, Bishops, their Courts, Chan<g ref="char:EOLhyphen"/>cellours, Commissaries, Deans and Chapters, Arch-Deacons, and such like Ecclesiasticall Officers, depending upon that Hierarchy, or by what name soever it may or shall be called hereafter. And that, in like manner, I shall labour to extir<g ref="char:EOLhyphen"/>pate all Superstition and all Heresies condemned by the Pri<g ref="char:EOLhyphen"/>mitive Generall Councels of the true ancient Church, all Schisme, chiefely amongst Evangelicall Protestants who have cast off the Papall Yoke, all prophanenesse, and whatso<g ref="char:EOLhyphen"/>ever shall be found contrary to so and Doctrine, and the pow<g ref="char:EOLhyphen"/>er of godlinesse, lest I partake of other mens sins, and be in danger to receive of their plagues, that the Lord may be one, and his name one, not only in the three Kingdoms, but in all the Kingdoms of the earth.</hi>
+            </p>
+            <pb n="26" facs="tcp:117168:17"/>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/>
+               <hi>That I shall by the means aforesaid, in the same sincerity, reality, and constancie, according to my calling, endeavour with my <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and life to preserve the rights and priviledg<g ref="char:EOLhyphen"/>es of the Parliaments and the Liberties of the Kingdomes which are fundamentall and necessary for the conservation of the publike State, and that I shall also preserve and de<g ref="char:EOLhyphen"/>fend with my estate and like, the Kings Majesties person &amp; Authority to which I am bound by the Oath of Allegiance, as to the head of the publike State in the preservation and de<g ref="char:EOLhyphen"/>fence of the true Religion and Liberties of the Kingdomes, that the World may beare witnesse with my conscience of my loyalty, and that I have no thoughts or intentions to d<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nish his Majesties just power and greatnesse.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/>
+               <hi>That I shall with all faithfulness endeavour the discovery of all such as have been or shall be Incendiaries, Malignants, or evill Instruments, by hindering the Reformation of Re<g ref="char:EOLhyphen"/>ligion, dividing the King from his people, or one of the Kingdoms from another, or making any Factions or Parties among the people, contrary to the tenour of the Nationall League or Covenant, that they may be drawn from the er<g ref="char:EOLhyphen"/>rour of their wayes and brought to repentance, or otherwise to publike tryall, and receive condigne punishment, as the de<g ref="char:EOLhyphen"/>gree of their offence shall require or deserve, or the supream Judicatories of both Kingdoms respectively, or others ha<g ref="char:EOLhyphen"/>ving power from them to that effect shall judge convenient.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/>
+               <hi>And where as the happinesse of a blessed Peace and Union between the Kingdoms, denied in former times to our pro<g ref="char:EOLhyphen"/>genitors, is by the good providence of God granted to us, and hath been lately concluded and setled by both Parliaments, I shall according to my place and interest endeavour that the Kingdoms may remain conjoyn'd in a firm Peace and Union to all posterity, and that justice may be done upon the wilfull opposers thereof, in manner expressed in the precedent Arti<g ref="char:EOLhyphen"/>cles.</hi>
+            </p>
+            <pb n="27" facs="tcp:117168:17"/>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="6"/>
+               <hi>I shall also according to my place and calling, in the com<g ref="char:EOLhyphen"/>mon cause of Religion, Liberty, and Peace of the Kingdoms, assist &amp; defend all those that enter into the National League and Covenant in the maintaining and pursuing thereof, &amp; shall not suffer my selfe directly or indirectly by whatsoever combination, perswasion, or terrour, to be withdrawn and divided from this blessed Union and Conjunction, whether to make defection to the contrary part, or to give my selfe to a detestable indifferencie or neutrality in this Cause which so<g ref="char:EOLhyphen"/>much concerns the glory of God, the good of the Kingdoms, the honour of the King, and the wel-fare of all Evangelical Churches, which I shall labour to bring to a good correspon<g ref="char:EOLhyphen"/>dencie and brotherly affection with the Churches of the Kingdoms, and one with another, and so all the dayes of my life, shall zealously and constantly contin<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e against all oppo<g ref="char:EOLhyphen"/>sition in this endeavour of publike <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dification, peace and re<g ref="char:EOLhyphen"/>concilement of Protestants, not leaving off to promote more particularly the Nationall Cause according to my power, a<g ref="char:EOLhyphen"/>gainst all Lets and Impediments whatsoever, and what I am not able to suppresse or overcome by my selfe I shall reveal &amp; make known that it may be timely prevented or removed. All which I shall doe as in the sight of God.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="7"/>
+               <hi>And least in the use of the foresaid means for the prosecu<g ref="char:EOLhyphen"/>ting of these endeavours, as well towards those of my Nati<g ref="char:EOLhyphen"/>on, as towards other Evangelicall Churches, I might either unadvisedly give, or others might colourably take offences and scandals at me, from whence inconveniencies in this worke, as tares in a good field, may grow up, and choake the fruits thereof, for want of circumspection and care to deter<g ref="char:EOLhyphen"/>mine the way and manner of proceeding, by necessary Rules tending to edification: therefore I shall faithfully ende<g ref="char:EOLhyphen"/>vour to shape my course in all things conformable to the life of Jesus Christ the Captain of this Warfare, whose footsteps
+<pb n="28" facs="tcp:117168:18"/> I am bound to follow, and whose life is the Rule of Righte<g ref="char:EOLhyphen"/>ousnesse, and to speake more particularly of this, I shall or<g ref="char:EOLhyphen"/>der the wayes of my proceedings by those Rules.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> I shal walk in the Light, doing all things openly; and being desirous to come to the Light, and approve my ways to the conscience of every one, I shal reject all hid<g ref="char:EOLhyphen"/>den things of darkness, and the tricks of worldly wis<g ref="char:EOLhyphen"/>dom.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> I shal not meddle out of my Spirituall Calling with matters of State, nor suffer my Ministeriall gifts to serve Politicians for worldly ends.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> My way shall be wholly Evangelical, that is to say, fitted to prepare the minds of men to entertain the glad tydings of the Gospel of Peace. And to this effect;</p>
+            <p>I shal seek out and propose the Counsels and means of Peace by the Truth, bearing witness thereunto, as it shal be reveal'd to me, and exhorting and perswading indifferently all to receive it.</p>
+            <p>I shal not strive, nor cry, nor lift up my voice in the streets, that is to say, I shal not entertain the contentious custom of bitter railings, and confused disputings, by odious censuring and condemning of others, to lay open their faults; but rather study by loving admonitions to redress them.</p>
+            <p>I shal not break the bruised Reed, nor quench the smoking Flax, that is to say, I shal beare with the weak and support the feeble, not pleasing my self, but condis<g ref="char:EOLhyphen"/>cending to things of low degree, befitting the capacity of the simple and ignorant, I wil labour to heal the brea<g ref="char:EOLhyphen"/>ches of their Spirit, and carry their burthens till God send forth judgment unto victory.</p>
+            <p>If I be wronged, I shall not intend revenge or require evill for evill, or give way to evil surmizes, or make si<g ref="char:EOLhyphen"/>nister
+<pb n="29" facs="tcp:117168:18"/> reports of my evill willers known, but rather shall cover their faults, so far as may be without detriment to the publike cause, and the necessary cleering of mine own innocencie.</p>
+            <p>In a word, I shall doe nothing to another, which I would not have done in the like case unto my selfe, and what I would have done by others to my selfe, I shall first do it unto them.</p>
+            <p>Lastly, I shall alwayes be ready to goe without the Camp, to bear the reproach, and partake of the Crosse of Jesus Christ.</p>
+            <p>And because not only the Kingdoms but all Protestant Churches and Evangelical States, and every one that liveth therein, are guilty of many sins and provocations against God and his Son Jesus Christ, as is too manifest by the present distresses and dangers, the fruits thereof befalling to all, as well at home as abroad; Therefore I propose and declare before God my unfeigned desire to be humbled for my own sins, and for the sins of my Bre<g ref="char:EOLhyphen"/>thren in the Kingdoms, and in the Churches at home &amp; abroad; especially that we have not all valued as we ought the inestimable benesit of the Gospel, that wee have not laboured for the purity and power thereof, and that we have not endeavoured to receive Christ in our hearts, nor to walke worthy of him in our lives, which are the causes of other sins and transgressions so much a<g ref="char:EOLhyphen"/>bounding amongst all. And my true and unfeigned pur<g ref="char:EOLhyphen"/>pose, desire and endeavour is for my selfe, and for all others under my power and charge both in publike and in private, in all duties I owe to God and man, to amend my life and theirs, and to goe before others in the exam<g ref="char:EOLhyphen"/>ple of a reall Reformation, that the Lord may turn away his wrath and heavie indignation from all his people, and
+<pb n="30" facs="tcp:117168:19"/> establish the Churches and the Kingdoms in Truth and Peace.</p>
+            <p>And this Covenant and Vow I make in the presence of Almighty God, the searcher of all hearts, with a true intention to perform the same unblameably, as I shall an<g ref="char:EOLhyphen"/>swer at the great day, when the secrets of all hearts shall be disclosed. Most humbly beseeching the Lord to strengthen me and all those that enter into the like reso<g ref="char:EOLhyphen"/>lution by his holy Spirit for this end, and to blesse all our desires and proceedings of this kinde, with such successe as may be deliverance and safety to his people, and encouragement to other Christian Churches, groan<g ref="char:EOLhyphen"/>ing under, or in danger of the Yoke of Antichristian Tyranny, to joyne in the same or like Association and Covenant, to the glory of God, the enlargement of the Kingdom of Jesus Christ, and the peace and tranquillity of all Christian Kingdoms and Common wealths. <hi>Am<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n.</hi>
+            </p>
+            <closer>
+               <signed>I have said and subscribe my selfe, J. D.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
